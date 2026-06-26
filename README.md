@@ -29,9 +29,8 @@ https://github.com/Works-0786/inventory-management-app
 
 問い合わせの登録・一覧表示・状態変更・削除・LocalStorageでのデータ保存に対応した問い合わせ管理システムです。
 
-![問い合わせ登録画面](inquiry management-screenshot_1.png)  
-
-![問い合わせ一覧表示画面](inquiry management-screenshot_2.png)  
+![問い合わせ登録画面](inquiry-management-screenshot_1.png)
+![問い合わせ一覧表示画面](inquiry-management-screenshot_2.png)
 
 Repository:
 https://github.com/Works-0786/inquiry-management-system
